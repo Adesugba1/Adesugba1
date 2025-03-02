@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 [Connect on X](http://www.x.com/JeromeFAJi)
 
 
-[Email](adesugbajerome@gmail.com)
+[Connect on 🎄 to ✉️](linktr.ee/Adesugba)
