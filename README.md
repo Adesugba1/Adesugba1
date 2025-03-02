@@ -16,6 +16,3 @@ You can click the Preview link to take a look at your changes.
 [LinkedIn](http://www.linkedin.com/in/adesugbajerome)
 
 [Connect on X](http://www.x.com/JeromeFAJi)
-
-
-[Connect with me](linktr.ee/Adesugba)
