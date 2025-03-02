@@ -11,7 +11,7 @@
 Adesugba1/Adesugba1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[My CV](https://drive.google.com/file/d/1Eck1JGHY8aE4cXORjp7JpX6BLHH-5zWK/view?usp=drivesdk)
+[My CV](https://drive.google.com/file/d/1EsuUdhYslou7FOoz67qOu3rncn0DLsgj/view?usp=drivesdk)
 
 [LinkedIn](http://www.linkedin.com/in/adesugbajerome)
 
