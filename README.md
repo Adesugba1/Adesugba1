@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 [My CV](https://drive.google.com/file/d/1EsuUdhYslou7FOoz67qOu3rncn0DLsgj/view?usp=drivesdk)
 
+[DataCamp Portfolio](www.datacamp.com/portfolio/adesugbajerome)
+
 [LinkedIn](http://www.linkedin.com/in/adesugbajerome)
 
 [Connect on X](http://www.x.com/JeromeFAJi)
